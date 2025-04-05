@@ -2,11 +2,11 @@
 # Africa Google Cloud Platformers – A Community for African Innovators
 
 Welcome to **Africa Google Cloud Platformers** – a homegrown open source initiative with a bold vision:  
-To **empower developers, students, startups, and cloud enthusiasts across Africa** by building a strong, resourceful, and collaborative Google Cloud community starting right here in **Ghana**.
+To **empower developers, students, startups, and cloud enthusiasts across Africa** by building a strong, resourceful, and collaborative Google Cloud community .
 
 ## 🌍 Why Google Cloud, Why Now?
 
-While AWS and Azure dominate many conversations in the cloud space , **Google Cloud** is a powerful and often underrated platform offering cutting-edge tools for:
+Other cloud platforms dominate many conversations in the cloud space , **Google Cloud** is a powerful and often underrated platform offering cutting-edge tools for:
 - AI & Machine Learning
 - Big Data & Analytics
 - Serverless Infrastructure
