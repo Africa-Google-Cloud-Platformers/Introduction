@@ -1,7 +1,7 @@
 
-# 🇬🇭 Google Cloud Ghana – A Community for African Innovators
+# Africa Google Cloud Platformers – A Community for African Innovators
 
-Welcome to **Google Cloud Ghana** – a homegrown open source initiative with a bold vision:  
+Welcome to **Africa Google Cloud Platformers** – a homegrown open source initiative with a bold vision:  
 To **empower developers, students, startups, and cloud enthusiasts across Africa** by building a strong, resourceful, and collaborative Google Cloud community starting right here in **Ghana**.
 
 ## 🌍 Why Google Cloud, Why Now?
